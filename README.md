@@ -1,4 +1,5 @@
 # Google-1998
-![google](https://github.com/user-attachments/assets/e08b315a-2ee0-4272-a66f-0734c0ec534d)
+
+![Ekran görüntüsü 2025-04-22 220150](https://github.com/user-attachments/assets/5278dcf1-7b0e-44cb-9f47-1cebb1f2ace8)
 
 Google 1998
